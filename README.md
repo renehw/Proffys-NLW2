@@ -13,3 +13,6 @@ Desenvolvimento da plataforma de estudos Proffy, projeto executado durante a Nex
   
 # Projeto
 <h3>Este Projeto é uma ferramenta para pessoas que queiram dar aula ou queiram assitir aulas, uma plataforma versatil que permite qualquer um se inscrever para dar aulas online, bastando preencher um formulario. Para pessoas que queiram assistir as aulas, basta entrar em contato com o proffy.
+
+
+Desenvolvido por Rene Henrique.
