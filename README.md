@@ -68,4 +68,4 @@
   <img src="https://github.com/renehw/Proffys-NLW2/blob/master/img/give-classs.png" width="700" style="max-width:100%;"><br>
   <img src="https://github.com/renehw/Proffys-NLW2/blob/master/img/study.png" width="700" style="max-width:100%;"><br>
 </p>
-<h3>DESENVOLVIDO POR RENE HENRIQUE</h3>
+#DESENVOLVIDO POR RENE HENRIQUE</h3>
